@@ -1,13 +1,14 @@
-JavaScript Backend Hello World Demo
-===================================
+JavaScript Mongodb Demo
+=======================
+
+```
+brew install mongodb
+brew services start mongodb
+```
+
+CRUD of mongodb:
 
 ```
 npm install
 npm run demo
-```
-
-It will print:
-
-```
-Hello, Javascript
 ```
