@@ -1,12 +1,12 @@
 {
-    "scripts": {
-        "start": "node hello.js"
-    },
-    "dependencies": {
-        "lodash": "^4.17.10",
-        "mongodb": "3.1.10"
-    },
-    "devDependencies": {
-        "@types/mongodb": "3.1.17"
-    }
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.10",
+    "mongodb": "3.1.10"
+  },
+  "devDependencies": {
+    "@types/mongodb": "3.1.17"
+  }
 }
